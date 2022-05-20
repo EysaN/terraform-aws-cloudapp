@@ -21,7 +21,7 @@ provider "aws" {
 
 module "my_app_1" {
     source  = "app.terraform.io/eyxatech/myapp/aws"
-    version = "1.0.0"
+    version = "1.0.1"
 
     # our variables
     app_name = "myapp1"
