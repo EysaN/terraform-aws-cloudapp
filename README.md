@@ -3,7 +3,7 @@
  * state file is managed by Terraform Cloud
  * Terraform Cloud is triggered by code changes
  * Used provider is AWS
- * AWS Region: Europe (Frankfurt) eu-central-1
+ * AWS Region: Europe (Frankfurt) eu-central-1 
 
 
 ### Description
